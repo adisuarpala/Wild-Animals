@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Wild Animals</string>
+
+    <string-array name="wilds">
+
+        <item>Pilih</item>
+
+        <item>Singa</item>
+
+        <item>Serigala</item>
+
+        <item>Macan</item>
+
+    </string-array>
+
+
+
+</resources>
